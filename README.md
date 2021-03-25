@@ -1,3 +1,5 @@
+![Screenshot from 2021-03-25 16-20-51](https://user-images.githubusercontent.com/39342803/112538419-3a689a80-8d86-11eb-8d51-ad40a4e741bf.png)
+
 # Telos Quasar Template (telos-template)
 
 A template for using Vue+Quasar to build a Telos webapp
